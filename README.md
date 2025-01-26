@@ -1,2 +1,2 @@
-# nexto_factory
-nexto factory
+# NexTo Factory
+Token Factory For NexTo
